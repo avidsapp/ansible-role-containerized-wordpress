@@ -1,6 +1,6 @@
 galaxy_info:
-  author: Adnan Hodzic
-  description: Deploy & run Docker Compose project for WordPress instance (3 separate containers running WordPress PHP7 FPM, Nginx and MariaDB) with Let's Encrypt HTTPS encryption
+  author: David Sapp
+  description: Deploy & run Docker Compose project for WordPress instance (3 separate containers running WordPress PHP7 FPM, Nginx and MariaDB) with Let's Encrypt HTTPS encryption. A fork of AdnanHodzic/containerized-wordpress
 
   license: license (GPLv3)
 

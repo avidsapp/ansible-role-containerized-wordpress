@@ -31,11 +31,11 @@ wp_db_host: mysql
 wp_db_psw: change-M3
 ```
 
-If role is run without changing these, WordPress instance with Nginx virtual host as well as Database settings will be setup with these values. 
+If role is run without changing these, WordPress instance with Nginx virtual host as well as Database settings will be setup with these values.
 
 `stage` is an important value and its detailed explanation can be found on: [Let's Encrypt certificates (HTTPS encryption)](https://github.com/AdnanHodzic/containerized-wordpress-project/blob/master/README.md#5-lets-encrypt-certificates-https-encryption)
 
-Blog post discussion: 
+Blog post discussion:
 * [Automated way of getting Let’s Encrypt certificates for WordPress using Docker + Ansible](http://foolcontrol.org/?p=2758)
 * [Automagically deploy & run containerized WordPress (PHP7 FPM, Nginx, MariaDB) using Ansible + Docker on AWS](http://foolcontrol.org/?p=2002)
 
